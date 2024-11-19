@@ -36,8 +36,8 @@ Develop a complete incident response framework, including planning, execution, a
 
 This repository includes the following key deliverables:  
 
-1. **[report.pdf](path/to/report.pdf)**: A detailed report outlining the cybersecurity incident response framework and simulation outcomes.  
-2. **[presentation.pdf](path/to/presentation.pdf)**: A presentation summarizing the framework, tasks, and outcomes with speaker notes.  
+1. **[report.pdf](deliverables/Report.pdf)**: A detailed report outlining the cybersecurity incident response framework and simulation outcomes.  
+2. **[presentation.pdf](deliverables/Presentation.pdf)**: A presentation summarizing the framework, tasks, and outcomes with speaker notes.  
 
 You can click on the file names to view or download them.
 
